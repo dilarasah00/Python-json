@@ -1,0 +1,15 @@
+{
+  "sevimKaya": {
+    "firstName": "Sevim",
+    "lastName": "Kaya"
+  },
+  "eceBulut": {
+    "firstName": "Ece",
+    "lastName": "Bulut"
+  },
+  "emelBulut": {
+    "firstName": "Emel",
+    "lastName": "Bulut",
+    "age": 30
+  }
+}
